@@ -1,1 +1,2 @@
-Put the hashes of the malicious files here (malicious look-like files).
+Add the hashes of the malicious files here (malicious look-like files).
+Remove this text before adding the hashes.
